@@ -405,7 +405,7 @@
 								</div>
 
 								<div class="post-info">
-									<div class="link"><a  class="read-more" href="single.html">Read On</a></div>
+									<div class="link"><a  class="read-more" href="single.aspx">Read On</a></div>
 
 									<div class="details pull-right">
 										<span class="date"><i class="fa fa-calendar"></i> April 11</span>
@@ -450,7 +450,7 @@
 
 							<div class="post-details post-after">
 								<div class="entry-title">
-									<a href="single.html">Lorem ipsum dolor sit consectetur adipiscing</a>
+									<a href="single.aspx">Lorem ipsum dolor sit consectetur adipiscing</a>
 								</div>
 								<div class="entry-content">
 									<p>Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor </p>
@@ -483,19 +483,19 @@
 						<div class="single-post">
 							<div class="post-heading">
 								<span class="link-icon"><i class="fa fa-link"></i></span>
-								<a href="single.html"><span>psd</span> - Lorem ipsum dolor sit consectet ur adipisc</a>
+								<a href="single.aspx"><span>psd</span> - Lorem ipsum dolor sit consectet ur adipisc</a>
 							</div><!-- /.post-img -->
 
 							<div class="post-details post-after">
 								<div class="entry-title">
-									<a href="single.html">Lorem ipsum dolor sit consectetur adipiscing</a>
+									<a href="single.aspx">Lorem ipsum dolor sit consectetur adipiscing</a>
 								</div>
 								<div class="entry-content">
 									<p>Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor</p>
 								</div>
 
 								<div class="post-info">
-									<div class="link"><a  class="read-more" href="single.html">Read On</a></div>
+									<div class="link"><a  class="read-more" href="single.aspx">Read On</a></div>
 
 									<div class="details pull-right">
 										<span class="date"><i class="fa fa-calendar"></i> April 11</span>
@@ -510,14 +510,14 @@
 						<div class="single-post">
 							<div class="post-details">
 								<div class="entry-title">
-									<a href="single.html">Lorem ipsum dolor sit consectetur adipiscing</a>
+									<a href="single.aspx">Lorem ipsum dolor sit consectetur adipiscing</a>
 								</div>
 								<div class="entry-content">
 									<p>Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor </p>
 								</div>
 
 								<div class="post-info">
-									<div class="link"><a  class="read-more" href="single.html">Read On</a></div>
+									<div class="link"><a  class="read-more" href="single.aspx">Read On</a></div>
 
 									<div class="details pull-right">
 										<span class="date"><i class="fa fa-calendar"></i> April 11</span>
@@ -598,7 +598,7 @@
 									
 									<div class="inner-item">
 										<div class="post-img">
-											<a href="single.html"><img class="img-responsive" src="images/footer/post/2.jpg" alt="Post Iamge"></a>
+											<a href="single.aspx"><img class="img-responsive" src="images/footer/post/2.jpg" alt="Post Iamge"></a>
 										</div><!-- /.auther-img -->
 										
 										<div class="post-details">
@@ -610,7 +610,7 @@
 
 									<div class="inner-item">
 										<div class="post-img">
-											<a href="single.html"><img class="img-responsive" src="images/footer/post/3.jpg" alt="Post Iamge"></a>
+											<a href="single.aspx"><img class="img-responsive" src="images/footer/post/3.jpg" alt="Post Iamge"></a>
 										</div><!-- /.auther-img -->
 										
 										<div class="post-details">
