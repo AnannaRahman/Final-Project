@@ -1,0 +1,202 @@
+/*============
+ Common padding
+ =============*/
+
+.pt25 {
+	padding-top: 25px;
+}
+
+.pt50 {
+	padding-top: 50px;
+}
+
+.pt75 {
+	padding-top: 75px;
+}
+
+.pt100 {
+	padding-top: 100px;
+}
+
+.pt200 {
+	padding-top: 200px;
+}
+
+.pt300 {
+	padding-top: 300px;
+}
+
+.ptb-200 {
+	padding-top: 200px;
+	padding-bottom: 200px;
+}
+
+.pb25 {
+	padding-bottom: 25px;
+}
+
+.pb50 {
+	padding-bottom: 50px;
+}
+
+.pb75 {
+	padding-bottom: 75px;
+}
+
+.pb100 {
+	padding-bottom: 100px;
+}
+
+.ptb25 {
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+
+.ptb50 {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.ptb75 {
+	padding-top: 75px;
+	padding-bottom: 75px;
+}
+
+.ptb100 {
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+.plr75 {
+	padding-left: 75px;
+	padding-right: 75px;
+}
+
+.pl-20 {
+	padding-left: 20px;
+}
+
+.pl-25 {
+	padding-left: 25px;
+}
+
+.pl-50 {
+	padding-left: 50px;
+}
+
+.pl-105 {
+	padding-left: 105px;
+}
+.pr-50 {
+	padding-right: 50px;
+}
+/* ----------------------
+ Common margin
+ ------------------------ */
+
+.mt-5{
+	margin-top: 5px;
+}
+
+.mt25 {
+	margin-top: 25px;
+}
+
+.mt50 {
+	margin-top: 50px;
+}
+
+.mt75 {
+	margin-top: 75px;
+}
+
+.mt100 {
+	margin-top: 100px;
+}
+
+.mb25 {
+	margin-bottom: 25px;
+}
+
+.mb50 {
+	margin-bottom: 50px;
+}
+
+.mb75 {
+	margin-bottom: 75px;
+}
+
+.mb100 {
+	margin-bottom: 100px;
+}
+
+.mtb25 {
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+.mtb50 {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.mtb75 {
+	margin-top: 75px;
+	margin-bottom: 75px;
+}
+
+.mtb100 {
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+
+.ml15 {
+	margin-left: 15px;
+}
+
+a {
+	font-weight: 700;
+}
+
+/* ----------------------
+ Common background color
+ ------------------------ */
+.bg-trans {
+	background-color: transparent;
+}
+
+.bg-light-black {
+	background-color: #141414;
+}
+
+/* ----------------------
+ Border
+ ------------------------ */
+.bd-none {
+	border: none;
+}
+
+/* ----------------------
+ Common color
+ ------------------------ */
+.white {
+	color: white;
+}
+
+.black {
+	color: black;
+}
+
+.red {
+	color: red;
+}
+
+/*------------------
+ common text color
+ ------------------*/
+.text-ash {
+	color: #b7b7b7;
+}
+
+.text-light-ash {
+	color: #474747;
+}
